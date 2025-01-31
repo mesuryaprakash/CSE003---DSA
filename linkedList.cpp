@@ -166,5 +166,4 @@ int main(){
     display(head);
     // Node * n = reversal(head);
     // display(n);
-
 }
