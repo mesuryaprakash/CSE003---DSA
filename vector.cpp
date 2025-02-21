@@ -45,4 +45,10 @@ int main(){
         cout << v[i] << " ";
     }
 
+    cout << endl;
+
+    v.clear();
+
+    cout << v.empty();
+
 }
